@@ -1,6 +1,6 @@
 # Relatório do Projeto ETL em OCaml
 
-Este documento é o relatório do projeto ETL (*Extract, Transform, Load*) desenvolvido em OCaml como parte de um trabalho acadêmico. O objetivo é processar dados de pedidos (`order.csv`) e itens de pedidos (`order_item.csv`), calcular totais de receita e impostos por pedido filtrados por `status` e `origin`, e gerar relatórios em CSV. O projeto utiliza programação funcional (FP) com imutabilidade, funções puras e *higher-order functions* como `map`, `reduce`, e `filter`. Este relatório detalha como as etapas foram construídas, servindo como um roteiro para quem deseja reproduzir o projeto no futuro, e declara o uso de IA generativa conforme exigido pela rubrica.
+Este documento é o relatório do projeto ETL (*Extract, Transform, Load*) desenvolvido em OCaml como parte de um trabalho acadêmico. O objetivo é processar dados de pedidos (`order.csv`) e itens de pedidos (`order_item.csv`), calcular totais de receita e impostos por pedido filtrados por `status` e `origin`, e gerar relatórios em CSV. O projeto utiliza programação funcional (FP) com imutabilidade, funções puras e *higher-order functions* como `map`, `reduce`, e `filter`.
 
 ## Objetivo do Projeto
 
