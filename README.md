@@ -201,4 +201,4 @@ Este projeto foi desenvolvido com auxílio de IA generativa:
 
 ## Considerações Finais
 
-O projeto atende a todos os requisitos obrigatórios e implementa 5 dos 7 opcionais, demonstrando o uso de programação funcional em um pipeline ETL escalável. Para reproduzir, siga os passos descritos, garantindo que os arquivos CSV estejam no formato correto. O código é modular, testado e documentado, facilitando manutenção futura.
+O projeto atende a todos os requisitos obrigatórios e implementa 5 dos 7 opcionais, demonstrando o uso de programação funcional em um pipeline ETL escalável.
