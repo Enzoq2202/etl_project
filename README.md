@@ -194,7 +194,7 @@ Para `status = "Complete"` e `origin = "O"`:
 ## Uso de IA Generativa
 
 Este projeto foi desenvolvido com auxílio de IA generativa:
-- **Criação de Código**: Sugestões iniciais para funções como `filter_orders`, `inner_join`, e `aggregate_totals`.
+- **Criação de Código**: Correção de erros, melhoria do código existente e adição de funcionalidades.
 - **Documentação**: Geração deste relatório como base, ajustado manualmente para clareza e conformidade.
 - **Testes e Opcionais**: Propostas para testes unitários e cálculo de médias mensais.
 
