@@ -168,8 +168,8 @@ A carga escreve os resultados processados em arquivos CSV.
 4. **Testes Completos**: `test_pure.ml` cobre todas as funções puras com casos de teste.
 5. **Média por Mês/Ano**: Implementado com `calculate_monthly_averages` e `write_monthly_averages`.
 6. **Não Implementados**:
-   - Leitura via HTTP: Não foi adicionada por simplicidade.
-   - Salvamento em SQLite: Não implementado devido à complexidade adicional.
+   - Leitura via HTTP
+   - Salvamento em SQLite
 
 ## Exemplo de Resultados
 Para `status = "Complete"` e `origin = "O"`:
